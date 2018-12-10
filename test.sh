@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Testing!"
-exit 1
+exit 0
